@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Text Dash</string>
+    <string name="work_in_progress">Work in Progress</string>
+    <string name="_00_00">00:00</string>
+    <string name="save">Save</string>
+</resources>
